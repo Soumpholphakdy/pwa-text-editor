@@ -6,7 +6,7 @@ A single-page text editor application that runs in the browser. It features seve
 
 ## Deployment
 
-## Screenshot
+
 
 ## Technologies
 
